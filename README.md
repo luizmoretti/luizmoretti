@@ -1,11 +1,8 @@
-## Hello World👋
-
-
 <div align="center">
   <a href="https://github.com/luizmoretti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizmoretti&theme=tokyonight&show_icons=true&hide_border=false&count_private=false"/>
 <div align="center">    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizmoretti&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmoretti&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 
 </div>
 </div>
